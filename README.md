@@ -18,3 +18,9 @@ with a new city they wish to add example if the user wishes to add Los Angeles
 once that is compleated you can use the csv temp and enter all of Los Angeles
 please refer to this guild. 
 https://davalign.com/articles/import-excel-data-into-mysql-using-phpmyadmin/
+
+Index.PHP
+
+in the index.php file this is where the user will see the code that displays 
+all the information regarding the front end such as sidebar and page 
+content holder
