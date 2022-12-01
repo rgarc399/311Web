@@ -23,4 +23,4 @@ Index.PHP
 
 in the index.php file this is where the user will see the code that displays 
 all the information regarding the front end such as sidebar and page 
-content holder
+content holder. Here the toggles and settings of the website. 
