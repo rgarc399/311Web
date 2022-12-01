@@ -1,0 +1,2 @@
+ticket_id,issue_type,issue_description,case_owner,case_owner_description,street_address,city,state,zip_code,neighborhood_district,created_year_month,ticket_created_date_time,ticket__last_update_date_time,ticket_closed_date_time,ticket_status,location_city,sr_xcoordinate,sr_ycoordinate,latitude,longitude,method_received,goal_days,actual_completed_days,ticket_year,ObjectId
+yes,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
