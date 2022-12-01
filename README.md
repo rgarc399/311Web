@@ -10,6 +10,7 @@ click it and find a folder name htdocs place the downloaded folder in
 htdocs this allows you to see 311web in your local host.
 
 PHPMYADMIN
+
 In order to add more cities the user most first update the cities sql file 
 with a new city they wish to add example if the user wishes to add Los Angeles 
 once that is compleated you can use the csv temp and enter all of Los Angeles
